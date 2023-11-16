@@ -1,0 +1,64 @@
+{
+    "home": {
+        "welcome": "Bienvenue",
+        "body1": "La première application",
+        "body2": "de potager collectif",
+        "btn-discover": "Découvrir",
+        "link-access-platform": "Accéder à la plateforme"
+    },
+    "browse": {
+        "loading-state-status": "En cours de chargement",
+        "status-xresults": "résultats",
+        "left": {
+            "create-garden": {
+                "title": "Créer votre potager",
+                "body1": "Vous aussi,",
+                "body2": "vous pouvez creer votre propre potager collectif",
+                "btn": "Créer un potager"
+            }
+        }
+    },
+    "components": {
+        "searchbar": {
+            "placeholder": "Rechercher"
+        },
+        "capsule-card": {
+            "edit": "Modifier"
+        },
+        "navbar":{
+            "my-gardens" : "Mes potagers"
+        },
+        "notification": {
+            "login": "Vous etes connecté !",
+            "must_be_logged_in": "Vous devez être connecté pour avoir accès à cette fonctionnalitée",
+            "already_affiliated": "Vous faites déjà partie de ce potager",
+            "affiliated": "Vous avez rejoint ce potager"
+        }
+    },
+    "login": {
+        "my-account": "Se connecter",
+        "email-address": "Email:",
+        "password": "Mot de passe:",
+        "connection": "Se connecter",
+        "text-inscription": "Pas encore inscrit ? ",
+        "text-register": "Inscrivez-vous!",
+        "error-email-invalid": "Email invalide",
+        "error-password-title": "Le mot de passe doit au minimum contenir:",
+        "error-password-0": "Une longueur de 8 caractères",
+        "error-password-1": "Une lettre",
+        "error-password-2": "Un chiffre",
+        "error-failed-login": "Email ou mot de passe incorrect",
+        "error-timeout": "La requête a échouée"
+    },
+    "register": {
+        "register": "Inscription",
+        "email-address": "Email:",
+        "first-name": "Prénom:",
+        "last-name": "Nom:",
+        "next" : "Suivant",
+        "password": "Mot de passe:",
+        "verify-password": "Confirmer mot de passe:",
+        "create": "Créer"
+
+    }
+}
